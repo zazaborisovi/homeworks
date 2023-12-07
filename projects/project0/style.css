@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: rgb(42, 42, 42);
+    color:white;
+}
+#goa{
+    font-size:20px;
+}
+p b{
+    color:rgb(4, 4, 121);
+}
+a{
+    text-decoration:none;
+    color:blue;
+}
